@@ -13,9 +13,8 @@ A modern Android photo gallery application that allows users to view, manage and
 - Lazy loading and pagination for efficient performance
 
 ## Screenshots
-Gridview :
 ![image](https://github.com/user-attachments/assets/cf821da1-e07f-46f9-b550-a73837745903)
-Detail View:
+
 ![image](https://github.com/user-attachments/assets/20d57dba-c9e3-4d0c-8ac5-ad70cc82593b)
 
 
